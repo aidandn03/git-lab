@@ -72,4 +72,5 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 12. yes
 
-13. 
+13. .  ..  .git  .gitignore  README.md
+
